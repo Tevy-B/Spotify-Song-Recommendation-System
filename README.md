@@ -1,0 +1,2 @@
+# Spotify-Song-Recommendation-System
+This song recommendation system is a graphical user interface application built using Python and Tkinter. Spotify ClientId and ClientSecret visit can be found by creating an app in Spotify for Developers: https://developer.spotify.com/documen...  For the output, the application will display a list of songs along with the names of the artist(s). Users can also play the recommended songs directly on Spotify.
